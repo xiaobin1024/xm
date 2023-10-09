@@ -2,6 +2,4 @@
 using namespace std;
 
 int main() {
-	cout << "hello23";
-	return 0;
-}
+	cout << "hello1";
